@@ -1,0 +1,13 @@
+{
+  "name": "permis-patate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Maeeen <marwanazuz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-html-parser": "^5.3.3",
+    "yargs": "^17.5.1"
+  }
+}
